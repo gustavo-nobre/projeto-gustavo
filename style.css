@@ -1,0 +1,21 @@
+.centralizar {
+    text-align: center;
+    margin: 2%;
+}
+
+.ajuste_img {
+    height: 75%;
+    width: 90%;
+}
+
+.ajuste_texto {
+    text-align: justify;
+}
+
+#techtudo {
+    width: 100%;
+}
+
+.titulo {
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+}
